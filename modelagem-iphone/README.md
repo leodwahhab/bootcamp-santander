@@ -1,4 +1,7 @@
- [DIO](www.dio.me) - Trilha Java Básico
+[DIO](www.dio.me) - Trilha Java Básico
+
+## Desafio proposto por:
+- [Gleyson Sampaio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
 
 ## Autores
 - [Leonardo Wahhab](https://github.com/leodwahhab)
